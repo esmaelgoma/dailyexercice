@@ -55,6 +55,7 @@ class DetailsScreen extends StatelessWidget {
                       child: Text("Live happier and healthier by learning the fundamentals of meditation and mindfulness",
                         style: TextStyle(
                           fontSize: 10,fontWeight: FontWeight.w400,
+                          //tst commit
                         ),
                       ),
                     ),
